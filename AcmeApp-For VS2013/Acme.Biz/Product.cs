@@ -24,7 +24,7 @@ namespace Acme.Biz
             this.ProductName = productName;
             this.Description = description;
         }
-        #endregion
+        #endregion 
 
         #region Properties
         public DateTime? AvailabilityDate { get; set; }
